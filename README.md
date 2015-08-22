@@ -5,4 +5,6 @@ Proyecto Quiz realizado desde cero, siguiendo los pasos vistos en clase
 José Carlos Grijalva González
 
 #Ver en funcionamiento
-https://jc-quiz-2015.herokuapp.com/
+
+http://tarea-quiz.herokuapp.com/
+
